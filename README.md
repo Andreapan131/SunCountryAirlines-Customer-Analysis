@@ -5,7 +5,7 @@ This project aims to identify distinct customer segments by applying **K-Means c
 ## 📊 Dataset Description
 Used three main datasets derived from internal airline booking data:
 - `sample_data_transformed.csv` – Original customer booking dataset with mixed categorical and numeric features.
-- `Clustering Data.csv` – Preprocessed version of the data with categorical variables converted to numerical values.
+- `Clustering Data.csv` – Cleaned and encoded data with categorical variables converted to numerical values.
 - `final_dataframe_clusters.csv` – Final data frame with assigned cluster labels.
 
 **Customer Data Dictionary:**
